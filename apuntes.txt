@@ -1,0 +1,14 @@
+git init : inicializa el proyecto
+git status: ver que archivos estamos trabajando
+GIT CONFIG --GLOBAL USER.EMAL
+			 ."NAME"
+
+git commit
+ESC :wq ENTER
+
+git log: permite diferenciar cada modificacion
+
+git diff prueba.html : deja ver lo que se aumento y quito en la terminal
+
+despues de modificar poner para que este en el ara de trabajo:
+git add prueba.html
